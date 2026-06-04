@@ -35,11 +35,17 @@ python res_rms.py Lsensor_260KOhm
 ```
 
 ## Naming: 
-ispind -- The setup we have where the sensor is held down by the "ispind"\n
+ispind -- The setup we have where the sensor is held down by the "ispind"
+
 Lsensor -- New setup I made, where a very large piezo sensor is glued to the membrane.
+
 260kOhm -- The resistor connected to the sensor, which is 260k Ohm.
+
 15MOhm -- The resistor connected to the sensor, which is 1,5 Mio Ohm.
+
 4000hz -- The sampling frequency, which is 4000 Hz.
+
 512s -- The number of samples taken, which is 512 samples. standard is 128 samples.
+
 squ -- the falsk is squeezed once during the test. medium and samll refers to the amount of squeezing. 
 
