@@ -35,7 +35,7 @@ python res_rms.py Lsensor_260KOhm
 ```
 
 ## Naming: 
-ispind -- The setup we have where the sensor is held down by the "ispind"
+ispind -- The setup we have where the sensor is held down by the "ispind"\n
 Lsensor -- New setup I made, where a very large piezo sensor is glued to the membrane.
 260kOhm -- The resistor connected to the sensor, which is 260k Ohm.
 15MOhm -- The resistor connected to the sensor, which is 1,5 Mio Ohm.
