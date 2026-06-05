@@ -1,9 +1,10 @@
 import serial
 import csv
+import time
 import sys
 
 num_runs = 20
-num_samples = 1024
+num_samples = 1000
 
 file_name = sys.argv[1] if len(sys.argv) > 1 else 'piezo_data.csv'
 
